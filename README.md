@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Melot Technology Pvt Ltd. **StreamKar App**
 
-- 🌱 I’m currently learning **NodeJs,HapiJs**
+- 🌱 I’m currently learning **Vue JS**
 
 - 👨‍💻 My Portfolio [https://abdul-kadir-pathan-portfolio.netlify.app/](https://abdul-kadir-pathan-portfolio.netlify.app/)
 
