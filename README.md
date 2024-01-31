@@ -11,7 +11,7 @@
 
 - 👨‍💻 My Portfolio [https://abdul-kadir-pathan-portfolio.netlify.app/](https://abdul-kadir-pathan-portfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript,ReactJs etc.**
+- 💬 Ask me about **JavaScript,ReactJs,NodeJs,HapiJs.**
 
 - 📫 How to reach me **abdulkadirk059@gmail.com**
 
