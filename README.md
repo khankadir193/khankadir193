@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue JS,Python etc**
 
-- 👨‍💻 My Portfolio [https://abdul-kadir-pathan-portfolio.netlify.app/](https://abdul-kadir-pathan-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://abdul-kadir-pathan-portfolio.netlify.app/](https://abdulkadirkhan786.netlify.app/)
 
 - 💬 Ask me about **JavaScript,ReactJs,NodeJs,HapiJs.**
 
